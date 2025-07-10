@@ -35,3 +35,81 @@
 1. Fixed Resource
 2. Fixed Time
 3. Estimate Features
+
+## User Story
+
+    User stories are written to capture requirements from the user, 
+the user stories must address both functional and non-functional characteristics.
+
+## Practice Agile using JIRA
+
+### Selecting Story Work Type
+
+#### Bug
+
+Tester write problem in the software for the developer to solve.
+
+#### Task
+
+Anything to be assigned to the team.
+
+#### Story
+
+Large user story, for example user story that should be done in 2 hour.
+
+#### Epic
+
+User story that need 40 hour of work to be implemented will be called Epic,</br>
+an Epic can have many user stories that implement this Epic.</br>
+For example: login functionality is an Epic.</br>
+Epic not stored in backlog because backlog only store user stories.</br>
+Before click the create button, we can check the create anoter button to create multiple user story with same Epic parent.
+
+## 5 Agile Requirement
+
+### Theme
+
+A Scrum theme is the highest level of the story hierarchy.</br>
+A product owner further breaks down a theme into one/more epics.</br>
+For example:
+
+- theme for increase sale
+- theme for get higher rating on the application store
+- theme for have more number of repeat customer.
+
+### Features
+
+Feature is new capability provied to costomer.</br>
+Feature Larger than the epic and the user story.</br>
+For each theme we have more than one feature which will achieve the goal of each theme.</br>
+
+### Epic User Stories
+
+Medium size requrements that are decomposed from a feature.</br>
+For example we have feature called manage profile data,</br>
+we might have more than one epic that help the user manage the profile data.
+
+### User Stories
+
+Epic might require 2/3 or even 5 days of effort,</br>
+however the user story should fit within single day.</br>
+User story should finished within 2 or 4 hours for example.</br>
+
+On the other hand, the feature might take one week or two weeks and</br>
+the theme might be extended up to one month or more. So the user story is a</br>
+requirement that contains a single action only.
+
+### User Tasks
+
+Actions required to develop a requirement of user story,</br>
+those tasks should cover all aspect of:
+
+- User Story
+- Development
+- Integration
+- Deployment
+
+Those task will be performed by moe than one team.
+
+Not all agile project include those 5 type of requirement,</br>
+for example in Jira only have user stories, epics, version and tasks.
