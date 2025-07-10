@@ -21,3 +21,17 @@
 - Business people and dev team must work together to give best solution for the business.
 - Face to face conversation like pair programming or daily meeting.
 - Always look forward performing in a better way. That why we have meeting called restrospective and Sprint Review.
+
+## Comparison Flow Between Waterfall vs Agile
+
+### Waterfall
+
+1. Fixed Requirement
+2. Estimate Resource
+3. Estimate Time
+
+### Agile
+
+1. Fixed Resource
+2. Fixed Time
+3. Estimate Features
