@@ -150,4 +150,37 @@ finished in order for this sprint to reach it's goal.
 
 Inside sprint, you should only add task to the sprint back log if</br>
 you expect can finish it. If not then the task</br>
-moved back into the product backlog.
+moved back into the product backlog.</br>
+
+#### PLanning Poker
+
+We can do timeboxing by using planning poker at the beginning of the sprint.</br>
+So the plan poker is an activity in which we give some point to each story,</br>
+the point given by:
+
+- Product Onwer
+- Scrum Master
+- Developer
+- Tester
+
+Each one of them separately chooses a point, this point represents</br>
+the complexity and time of this user story. If they all agree on the same point,</br>
+then this is the estimate of this user story.</br>
+
+Plan poker point mostly follow fibonacci sequence.</br>
+The smallest user story has an estimate of 1, for example: Contact Us Page.</br>
+Then 2, 3, 5, 8, 13, 20 and so on, if > 20 than it called</br>
+an epic and need to be divided into smaller user story.</br>
+
+#### Only Time
+
+Another way is estimate tasks only using time.</br>
+For example: 1 hour, 2 hour and so on.</br>
+
+Both of the way is correct.
+
+### Tranparency
+
+The dev team should report and update the sprint status on a daily basis at daily scrum meeting.</br>
+Each team member explain the work yesterday what he is going to do today.</br>
+And if there is any problems within that block of work.
