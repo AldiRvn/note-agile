@@ -184,3 +184,20 @@ Both of the way is correct.
 The dev team should report and update the sprint status on a daily basis at daily scrum meeting.</br>
 Each team member explain the work yesterday what he is going to do today.</br>
 And if there is any problems within that block of work.
+
+## Scrum
+
+Most companies that use Agile also use Scrum.</br>
+Scrum Roles:
+
+### Product Owner
+
+Considered as the representative of the customer and also do backlog management.
+
+### Scrum Master
+
+Accountable for establishing Scrum as defined in the Scrum Guide.
+
+### Development Team
+
+Team who develops and tests the software.
