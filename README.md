@@ -201,3 +201,19 @@ Accountable for establishing Scrum as defined in the Scrum Guide.
 ### Development Team
 
 Team who develops and tests the software.
+
+## Restrospective Meeting
+
+Is a meeting held at the end of each iteration to discuss:
+
+- What was successful
+- What could be improved
+- How to Incorporate the improvements in future iterations
+
+Categories:
+
+- Continue Doing
+- Stop Doing
+- Start Doing
+
+From each category only choose 1 for the team try to do.
