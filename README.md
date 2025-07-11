@@ -41,30 +41,6 @@
     User stories are written to capture requirements from the user, 
 the user stories must address both functional and non-functional characteristics.
 
-## Practice Agile using JIRA
-
-### Selecting Story Work Type
-
-#### Bug
-
-Tester write problem in the software for the developer to solve.
-
-#### Task
-
-Anything to be assigned to the team.
-
-#### Story
-
-Large user story, for example user story that should be done in 2 hour.
-
-#### Epic
-
-User story that need 40 hour of work to be implemented will be called Epic,</br>
-an Epic can have many user stories that implement this Epic.</br>
-For example: login functionality is an Epic.</br>
-Epic not stored in backlog because backlog only store user stories.</br>
-Before click the create button, we can check the create anoter button to create multiple user story with same Epic parent.
-
 ## 5 Agile Requirement
 
 ### Theme
@@ -113,3 +89,65 @@ Those task will be performed by moe than one team.
 
 Not all agile project include those 5 type of requirement,</br>
 for example in Jira only have user stories, epics, version and tasks.
+
+## Practice Agile using JIRA
+
+### Selecting Story Work Type
+
+#### Bug
+
+Tester write problem in the software for the developer to solve.
+
+#### Task
+
+Anything to be assigned to the team.
+
+#### Story
+
+Large user story, for example user story that should be done in 2 hour.
+
+#### Epic
+
+User story that need 40 hour of work to be implemented will be called Epic,</br>
+an Epic can have many user stories that implement this Epic.</br>
+For example: login functionality is an Epic.</br>
+Epic not stored in backlog because backlog only store user stories.</br>
+Before click the create button, we can check the create anoter button to create multiple user story with same Epic parent.
+
+## Terms Used in Agile Scrum
+
+### Sprint
+
+For example project have fixed length 3 month,</br>
+that project can be divide into 3 or 6 iteration.
+
+### Product Increment
+
+Each sprint results in a potentially releasable product (called an increment).
+</br>Looping flow:
+
+1. Build
+2. Measure
+3. Learn
+
+### Product Backlog
+
+The product owner manage priority list of planned product items.</br>
+The product backlog evolves from sprint to sprint.
+
+### Sprint Backlog
+
+The product backlog written by product owner but</br>
+the person who decides which user stories will be added to the sprint backlog is</br>
+the whole team.
+
+### Definition of Done
+
+Definition of Done is list task that must be</br>
+finished in order for this sprint to reach it's goal.
+
+### Timeboxing
+
+Inside sprint, you should only add task to the sprint back log if</br>
+you expect can finish it. If not then the task</br>
+moved back into the product backlog.
