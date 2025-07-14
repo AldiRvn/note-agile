@@ -9,7 +9,7 @@
 
 ## Agile 12 Principles
 
-- Satisfying the customer is highest prioirty.
+- Satisfying the client is highest prioirty.
 - Develop software frequently with intervals between few weeks/few months.
 - Working software is the primary measure of progress more than comprehensive documentation.
 - Compete with other competitor by welcoming change requirement, even late in development.
@@ -51,7 +51,7 @@ For example:
 
 - theme for increase sale
 - theme for get higher rating on the application store
-- theme for have more number of repeat customer.
+- theme for have more number of repeat client.
 
 ### Features
 
@@ -192,7 +192,7 @@ Scrum Roles:
 
 ### Product Owner
 
-Considered as the representative of the customer and also do backlog management.
+Considered as the representative of the client and also do backlog management.
 
 ### Scrum Master
 
@@ -217,3 +217,78 @@ Categories:
 - Start Doing
 
 From each category only choose 1 for the team try to do.
+
+## Extreme Programming (XP)
+
+Extreme programming is different than Scrum, Scrum focus on management.</br>
+Extreme programming focus on development and testing, not management.</br>
+
+Extreme programming have Slack, Slack is some items which are optional or minor.</br>
+Only go to the Slack if the team member already finish the current sprint user story and</br>
+still have more time.</br>
+
+### Requirement To Apply Extreme Programming
+
+- New versions may be built serveral times per day
+- Increments are delivered to client every 1 or 2 weeks
+- All tests must be run for every build and the build is only accepted if tests run successfully
+
+### Extreme Programming Push Each Developer Activity
+
+- Code Reviews -> Pair Programming
+- Testing -> Automated Testing
+- Code Design -> Presistent Refactoring
+- Simple but maintenable Code -> Simple Design, Simple Code & Code only that is required
+- Short iterations -> The Planning Game
+</br>(In The Planning Game, stakeholders actively join every planning meeting — not just at the beginning or end like in regular short iterations.)
+
+### Extreme Programming 5 Values
+
+- Communication
+- Simplicity
+- Feedback (maybe 2 or 3 times per day)
+- Courage (Brave to accept critique)
+- Respect (Any team member opinion is respected even it a junior developer)
+
+### Extreme Programming 12 Principles
+
+- The Planning game
+- Small releases (occur as frequent as possible)
+- System Metaphor (make an analogy in order to explain technical stuff so can be accepted by someone who is not technical)
+- Simple Design (Don't over-engineer design only design that deliver value for the client)
+- Continous Testing (TDD)
+- Refactoring (Unnecessary code can be removed)
+- Pair Programming
+- Collective Code Ownership (No indivial owns the code)
+- Continous Integration (at least once daily)
+- 40 hour work per week (respect the developer balance of work and life)
+- On site client (the client near the development team to clarify and answer questions, that why agile have product owner who represent the client)
+- Coding Standard (different people can easy work on the same code because it have same standard)
+
+## Extreme Programming vs Scrum
+
+## Main Focus
+
+- XP: Programming & Testing
+- SCrum: Management & Productivity
+
+## Iterations
+
+- XP: Shorter(1-2 weeks)
+- Scrum: Longer & More flexible length
+
+## Changes in scope
+
+- XP: Flexible changes
+- Scrum: No Changes during the sprint
+
+## Prioritizing tasks
+
+- XP: Teams follow strict orders according to priority & requirements
+- Scrum: Developer order of their actions
+
+## Kanban
+
+- Visualizing tasks is important to provide transparency
+- Iterations in Kanban are optional
+- Timeboxing in Kanban is **optional**
